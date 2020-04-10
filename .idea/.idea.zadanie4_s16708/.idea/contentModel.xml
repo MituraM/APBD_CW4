@@ -31,7 +31,6 @@
           <e p="launchSettings.json" t="Include" />
         </e>
         <e p="Startup.cs" t="Include" />
-        <e p="WeatherForecast.cs" t="Include" />
         <e p="zadanie4_s16708.csproj" t="IncludeRecursive" />
       </e>
       <e p="zadanie4_s16708.sln" t="IncludeFlat" />
